@@ -5,7 +5,10 @@ import numpy as np
 from openai import OpenAI
 from sklearn.pipeline import Pipeline
 from logger.logger import get_logger
+from dotenv import load_dotenv
 import os
+
+load_dotenv()
 
 logger = get_logger("summary-generator")
 
