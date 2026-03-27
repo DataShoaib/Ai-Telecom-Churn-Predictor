@@ -302,4 +302,4 @@ At a conservative estimate, identifying even 10% additional churners before they
 
 **Shoaib** — Aspiring ML Engineer | Data Science Portfolio
 
-Connect on [LinkedIn](https://www.linkedin.com/in/datashoaib) · View more projects on [GitHub](https://github.com/datashoaib)
+Connect on [LinkedIn](https://www.linkedin.com/in/md-shoaib-akhtar-) · View more projects on [GitHub](https://github.com/datashoaib)
