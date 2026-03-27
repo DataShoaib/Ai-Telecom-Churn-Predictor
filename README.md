@@ -20,9 +20,9 @@ This project builds an intelligent copilot that gives retention teams:
 
 ## 🖼️ Application Preview
 
-| Customer Input Form | Churn Risk Meter & SHAP Explanation |
-|---|---|
-| ![UI](assets/ui.png) | ![Output](assets/output.png) |
+| Customer Input Form | Churn Risk & SHAP | AI Insights |
+|---|---|---|
+| ![UI](assets/ui.png) | ![Output](assets/output.png) | ![Insights](assets/insight.png) |
 
 ---
 
