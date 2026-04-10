@@ -30,7 +30,7 @@ This project builds an intelligent copilot that gives retention teams:
 
 > A dark-themed Power BI dashboard built on the same dataset, designed for retention managers who need fleet-level visibility — not just individual predictions.
 
-![BI Dashboard](BI_Dashboard/dashboard_preview.png)
+![BI Dashboard](Bi_Dashboard/dashboard_preview.png)
 
 ### Dashboard Highlights
 
