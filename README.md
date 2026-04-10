@@ -26,6 +26,27 @@ This project builds an intelligent copilot that gives retention teams:
 
 ---
 
+## 📊 Business Intelligence Dashboard
+
+> A dark-themed Power BI dashboard built on the same dataset, designed for retention managers who need fleet-level visibility — not just individual predictions.
+
+![BI Dashboard](BI_Dashboard/dashboard_preview.png)
+
+### Dashboard Highlights
+
+| Panel | What It Shows |
+|---|---|
+| **Churn Rate KPI** | Overall churn % at a glance |
+| **Contract Type Breakdown** | Month-to-month vs one/two-year churn distribution |
+| **Tenure Cohort Analysis** | Churn rate by customer tenure buckets |
+| **Payment Method Risk** | Electronic check vs auto-pay churn comparison |
+| **Service Stickiness** | Add-on subscription count vs churn likelihood |
+| **Senior Citizen Segment** | Demographic-level churn disparity |
+
+> 📁 Dashboard source file available in the [`BI_Dashboard/`](./BI_Dashboard/) folder.
+
+---
+
 ## 🏗️ System Architecture
 
 ```
@@ -169,6 +190,9 @@ telecom-churn-predictor/
 │   ├── interim/                # Cleaned data
 │   └── processed/split/        # X_train, X_test, y_train, y_test
 │
+├── BI_Dashboard/
+│   └── dashboard_preview.png   # Power BI dashboard screenshot
+│
 ├── frontend/
 │   └── app.py                  # Streamlit application
 │
@@ -214,6 +238,7 @@ telecom-churn-predictor/
 | LLM | Groq API — Llama 3.3 70B Versatile |
 | Frontend | Streamlit |
 | PDF Generation | ReportLab |
+| BI Dashboard | Power BI |
 | Environment | python-dotenv, Streamlit Secrets |
 
 ---
